@@ -37,7 +37,7 @@
 > A **desktop application** developed in **Java (Swing)** that simulates a **basic calculator** with a simple and functional design.  
 > Allows performing common arithmetic operations and was created as a personal practice project.  
 > The **.jar file** is available for download from my **GitHub** repository.  
-🔗 [View Project on GitHub](https://github.com/tuusuario/Calculadora)
+🔗 [View Project on GitHub](https://github.com/oslyn2808/Calculadora.git)
 
 ---
 
