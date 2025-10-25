@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,github,vscode,sqlite" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,github,vscode,mysql" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" />
 </p>
