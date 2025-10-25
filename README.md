@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oslyn2808&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslyn2808&layout=compact&theme=radical" alt="Top languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=oslyn2808&show_icons=true&theme=radical" alt="GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslyn2808&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 
