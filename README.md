@@ -5,7 +5,7 @@
 
 ---
 
-### About Me
+### ✦ About Me
 
 - Currently studying **Software Engineering** and developing university and personal projects.
 - Passionate about **learning**, **problem-solving**, and writing **clean, efficient code**.
@@ -14,7 +14,7 @@
 
 ---
 
-### Tech & Tools
+### ✦ Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,github,vscode,mysql" />
@@ -24,21 +24,19 @@
 
 ---
 
-### Featured Projects
+### ✦ Featured Projects
 
-#### Coffee Shop Website
+#### ◈ Coffee Shop Website
 A modern and responsive website for a local coffee brand, built to practice front-end design and UI/UX principles.  
-[View Project](https://goldenaroma.netlify.app/)
+→ [View Project](https://goldenaroma.netlify.app/)
 
-#### Basic Calculator — Java
+#### ◈ Basic Calculator — Java
 A desktop application built with **Java (Swing)** that simulates a basic calculator with a clean, functional interface. A downloadable `.jar` file is available in the repository.  
-[View on GitHub](https://github.com/oslyn2808/Calculadora)
-
-<!-- ADD YOUR OTHER PROJECTS HERE in the same format -->
+→ [View on GitHub](https://github.com/oslyn2808/Calculadora)
 
 ---
 
-### GitHub Stats
+### ✦ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oslyn2808&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
@@ -52,7 +50,7 @@ A desktop application built with **Java (Swing)** that simulates a basic calcula
 
 ---
 
-### Connect
+### ✦ Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oslyn-delgado-4b8716343/" target="_blank">
