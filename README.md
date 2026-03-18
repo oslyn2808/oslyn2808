@@ -17,7 +17,7 @@
 ### ✦ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,postgres,github,vscode,mysql" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" />
 </p>
@@ -25,6 +25,14 @@
 ---
 
 ### ✦ Featured Projects
+
+#### ◈ Elvas Cleaning Services — Business Website
+A full-stack website for a real cleaning company based in Belmar, NJ. Includes a responsive multi-page front end and a **Node.js + Express** backend connected to a **PostgreSQL** database for handling contact form submissions. Features a custom admin panel to manage incoming requests.  
+→ [View on GitHub](https://github.com/oslyn2808/PaginaEmpresaDeLimpieza)
+
+#### ◈ Payroll System — Gelato Minato
+A desktop **Java (Swing)** application developed as a university project for managing employee payroll. Handles employee registration, salary validation, deductions, session management, and generates PDF pay stubs. Built with a layered architecture: presentation, business logic, entities, and data access.  
+→ [View on GitHub](https://github.com/oslyn2808/ProyectoNominas)
 
 #### ◈ Coffee Shop Website
 A modern and responsive website for a local coffee brand, built to practice front-end design and UI/UX principles.  
