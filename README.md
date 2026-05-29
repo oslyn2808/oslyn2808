@@ -52,9 +52,6 @@ Sistema para registrar, gestionar y dar seguimiento a beneficiarios de parroquia
 ### ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oslyn2808&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oslyn2808&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
