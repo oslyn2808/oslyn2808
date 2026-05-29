@@ -42,6 +42,10 @@ A modern and responsive website for a local coffee brand, built to practice fron
 A desktop application built with **Java (Swing)** that simulates a basic calculator with a clean, functional interface. A downloadable `.jar` file is available in the repository.  
 → [View on GitHub](https://github.com/oslyn2808/Calculadora)
 
+#### ◈ Gestor de Ayuda de Parroquias
+Sistema para registrar, gestionar y dar seguimiento a beneficiarios de parroquias, incluyendo formularios, grupo familiar y control de gastos mediante adendums. Desarrollado con arquitectura en capas usando el patrón DAO, JPA/Hibernate como ORM y MySQL como base de datos. 
+→ [View on GitHub](https://github.com/oslyn2808/ProyectoParroquia)
+
 ---
 
 ### ✦ GitHub Stats
